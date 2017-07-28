@@ -36,3 +36,11 @@
     width: 100%;
   }
 }
+
+@media(min-width: 1200px) and (max-width: 1290px) {
+  .phone {
+    img {
+      right: 0;
+    }
+  }
+}
