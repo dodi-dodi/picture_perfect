@@ -113,7 +113,7 @@ body {
 .hero {
   width: 100%;
   height: 950px;
-  background-image: url("/images/picture_perfect-min.png");
+  background-image: url("images/picture_perfect-min.png");
   margin-bottom: 50px;
   background-size: cover;
   background-position: center center; }
@@ -166,7 +166,7 @@ body {
   padding: 20px; }
 
 .article-3 {
-  background-image: url("/images/clients-min.png");
+  background-image: url("images/clients-min.png");
   padding: 20px; }
   .article-3 .fa-position {
     float: right;
@@ -179,7 +179,7 @@ body {
   padding: 20px; }
 
 .article-5 {
-  background-image: url("/images/start_something-min.png");
+  background-image: url("images/start_something-min.png");
   padding: 20px; }
   .article-5 .fa-position {
     float: right;
@@ -192,7 +192,7 @@ body {
   padding: 20px; }
 
 .article-7 {
-  background-image: url("/images/start_something-min.png");
+  background-image: url("images/start_something-min.png");
   padding: 20px; }
 
 .details h2 {
@@ -203,7 +203,7 @@ body {
   font-weight: 600; }
 
 .hero-2 {
-  background-image: url("/images/morepower-min.png");
+  background-image: url("images/morepower-min.png");
   height: 850px;
   margin-top: 100px;
   background-size: cover;
